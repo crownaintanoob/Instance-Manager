@@ -19,22 +19,18 @@
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 ## <b>*Features*</b>
-* ***Auto Relaunch***
-* ***Auto Inject***
-* ***Join any game with multiple accounts at once, works with Vip Servers too***
-* ***File Management, you can basically manage your instances' files***
-* ***Join any game with multiple accounts at once, works with Vip Servers too***
+* **Auto Relaunch**
+* **Auto Inject**
+* **Join any game with multiple accounts at once, works with Vip Servers too**
+* **File Management, you can basically manage your instances' files**
+* **Join any game with multiple accounts at once, works with Vip Servers too**
 
 
 ## Download
 
-<h4><b>[Download](https://github.com/Sightem/Instance-Manager/releases/latest) the latest release of the Instance Manager</b></h4>
+<h4><b><a href="https://github.com/Sightem/Instance-Manager/releases/latest">Download</a> the latest release of the Instance Manager</b></h4>
 
 ## Credits
 
-<div style="position: relative; bottom: 30px">
-<h3>
-<h2 style="position: relative; top: 40px"><b>Sightem</b></h2>
-<img align="right" src="https://i.ibb.co/wR1H8SQ/9af4a8a3ebee2d28fd8327e58eb05e19.png" width="100" height="100" style="border-radius:50%; position: relative; right: 65%; bottom: 30px">
-</h3>
-</div>
+<b>Sightem</b>
+<img align="center" src="https://i.ibb.co/wR1H8SQ/9af4a8a3ebee2d28fd8327e58eb05e19.png" width="100" height="100">
