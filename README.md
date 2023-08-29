@@ -18,7 +18,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-## <b>*Features*</b>
+## Features
 * **Auto Relaunch**
 * **Auto Inject**
 * **Join any game with multiple accounts at once, works with Vip Servers too**
